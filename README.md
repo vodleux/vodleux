@@ -1,6 +1,11 @@
-not read me
+### Umut Batuhan — Vodleux
 
-<!---
-vodleux/vodleux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Interface designer based in Mersin, Turkey. I design and build on the web under my personal brand [Vodleux](https://vodleux.com), and in my spare time I look for and report real security vulnerabilities.
+
+**Recent work**
+- Found and reported a Critical (CVSS 9.1) unauthenticated IDOR → [GHSA-8rwg-g5qm-95xm](https://github.com/vodleux/GHSA-8rwg-g5qm-95xm)
+
+**Elsewhere**
+- Site: [vodleux.com](https://vodleux.com)
+- Dribbble: [@vodleux](https://dribbble.com/vodleux)
+- X: [@vodleux](https://x.com/vodleux)
